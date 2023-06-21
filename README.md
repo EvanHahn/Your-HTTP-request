@@ -1,4 +1,5 @@
-Your HTTP request
-=================
+# Your HTTP request
 
-Visit this page and I'll tell you everything you've ever wanted to know.
+Visit this page to see details of your HTTP request in plain text.
+
+Written with [Crystal](https://crystal-lang.org/) version 1.8.2.
